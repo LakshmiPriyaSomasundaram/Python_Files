@@ -1,1 +1,1 @@
-select * from sample
+select * from sample_change
